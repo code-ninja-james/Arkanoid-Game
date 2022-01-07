@@ -5,11 +5,11 @@
     <img alt="License: ISC" src="https://img.shields.io/badge/License-ISC-yellow.svg" />
   </a>
   <a href="https://twitter.com/JamesonGithinji1" target="_blank">
-    <img alt="Twitter: JamesonGithinji1" src="https://img.shields.io/twitter/follow/JamesonGithinji1.svg?style=social" />
+    <img alt="Twitter: JamesonGithinj1" src="https://img.shields.io/twitter/follow/JamesonGithinj1.svg?style=social" />
   </a>
 </p>
 
->Arcade Arkanoid game made in typescript
+>Arkanoid game made in typescript
 
 ### 🏠 [Homepage](https://arkanoid-game-7abb1.web.app)
 
