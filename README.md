@@ -4,7 +4,7 @@
   <a href="#" target="_blank">
     <img alt="License: ISC" src="https://img.shields.io/badge/License-ISC-yellow.svg" />
   </a>
-  <a href="https://twitter.com/JamesonGithinji1" target="_blank">
+  <a href="https://twitter.com/JamesonGithinj1" target="_blank">
     <img alt="Twitter: JamesonGithinj1" src="https://img.shields.io/twitter/follow/JamesonGithinj1.svg?style=social" />
   </a>
 </p>
